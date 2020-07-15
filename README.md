@@ -1,2 +1,1 @@
-# python_base
-python基础
+python相关>>python最新就业班压缩版>>基础班（附带教学课件+开发工具+环境配置）
