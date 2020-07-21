@@ -1,3 +1,4 @@
+````
 绝对路径：cd /home/python
 相对路径：cd Downloads
 
@@ -145,4 +146,4 @@ tar -zxvf xxx.tar.gz
 tar -jcvf xxx.tar.bz2 *
 tar -jxvf xxx.tar.bz2
 
-
+```
